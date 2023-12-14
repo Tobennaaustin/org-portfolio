@@ -97,37 +97,7 @@
         text-align: center;
       }
 
-      .web p{
-        font-size: 12px;
-        color: var(--black);
-        margin-right: 60px;
-      }
-      .web p span{
-        margin-left: 100px;
-      }
-
-      /* wordpress range */
-      .word p{
-        font-size: 12px;
-        color: var(--black);
-        font-weight: 600;
-        margin-right: 40%;
-      }
-      .word p span{
-        margin-left: 40%;
-      }
-      /* uiux range */
-
-      .ux p{
-        font-size: 12px;
-        color: var(--black);
-        font-weight: 600;
-        margin-right: 9rem;
-      }
-      .ux p span{
-        margin-left: 25%;
-      }
-
+      
 
       /* work section */
 
