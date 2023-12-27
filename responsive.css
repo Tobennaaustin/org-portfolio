@@ -1,5 +1,6 @@
 /* main responsiveness */
 @media (min-width: 200px) and (max-width:500px){
+  
     .home{
         display: block;
         align-items: center;
